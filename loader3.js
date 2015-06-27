@@ -1,14 +1,10 @@
-/*! loader3 1.0.0
- * ©2015 Bhaskar Mangal - www.bhaskarmangal.com
- */
-
 /**
  * @summary    loader3
  * @description Js, CSS dynamic loader
  * @version      1.0.0
  * @file            loader3.js
  * @author       Bhaskar Mangal (www.bhaskarmangal.com)
- * @copyright   Copyright 2008-2014 SpryMedia Ltd.
+ * @copyright   Copyright 2015 Bhaskar Mangal, Vidteq India Pvt. Ltd. (www.vidteq.com)
  *
  * This source file is free software, available under the following license:
  *   Apache License 2.0 - https://github.com/mangalbhaskar/loader3/blob/master/LICENSE
